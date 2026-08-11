@@ -123,13 +123,13 @@ I use GitHub to:
 
 I'm always interested in connecting with developers, designers, and recruiters.
 
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+📧 **Email:** [krishnaprasath0712@gmail.com](mailto:your-email@example.com)
 
-💼 **LinkedIn:** [Add your LinkedIn profile]
+💼 **LinkedIn:** [[Add your LinkedIn profile](https://www.linkedin.com/in/krishnaprasath-p-8a53043a3/)]
 
-🌐 **Portfolio:** [Add your portfolio link]
+🌐 **Portfolio:** [krishnaprasath-portfolio.vercel.app]
 
-🐙 **GitHub:** [@yourusername](https://github.com/yourusername)
+🐙 **GitHub:** [https://github.com/krishna0712-hub](https://github.com/yourusername)
 
 ---
 
