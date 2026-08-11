@@ -132,7 +132,21 @@ I'm always interested in connecting with developers, designers, and recruiters.
 🐙 **GitHub:** [https://github.com/krishna0712-hub](https://github.com/yourusername)
 
 ---
+┌─────────────────────────────────────────┐
+│          GitHub Profile Banner          │
+│   Software Developer | UI/UX | Frontend │
+└─────────────────────────────────────────┘
 
+Hi, I'm Krishnaprasath 👋
+Software Developer • UI/UX Designer • Frontend Developer
+
+About Me
+Tech Stack
+Featured Projects
+Currently Learning
+GitHub Stats
+Contribution Streak
+Let's Connect
 ### 💡 Design with purpose. Code with clarity. Build with impact.
 
 ⭐ Feel free to explore my repositories and follow my developer journey!
