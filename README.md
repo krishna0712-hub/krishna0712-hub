@@ -127,7 +127,7 @@ I'm always interested in connecting with developers, designers, and recruiters.
 
 💼 **LinkedIn:** [[Add your LinkedIn profile](https://www.linkedin.com/in/krishnaprasath-p-8a53043a3/)]
 
-🌐 **Portfolio:** [krishnaprasath-portfolio.vercel.app]
+🌐 **Portfolio:** [[krishnaprasath-portfolio.vercel.app](https://krishnaprasath-portfolio.vercel.app/)]
 
 🐙 **GitHub:** [https://github.com/krishna0712-hub](https://github.com/yourusername)
 
