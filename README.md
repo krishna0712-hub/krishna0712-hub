@@ -1,20 +1,20 @@
 # Hi, I'm Krishnaprasath 👋
 
-### UI/UX Designer • Frontend Developer • Software Developer
+###  • Software Developer • UI/UX Designer • Frontend Developer
 
 I'm a final-year **B.Tech Artificial Intelligence & Data Science student** passionate about creating clean, responsive, and user-friendly digital experiences.
 
-I enjoy transforming ideas and designs into functional web applications while continuously improving my skills in **UI/UX Design, Frontend Development, Software Development, and Python**.
+I enjoy transforming ideas and designs into functional web applications while continuously improving my skills in **Software Development,Python,UI/UX Design, Frontend Development**.
 
 ---
 
 ## 👨‍💻 About Me
 
 * 🎓 Final-year B.Tech AI & Data Science student
-* 🎨 Passionate about **UI/UX Design**
-* 💻 Focused on **Frontend Development**
 * 🐍 Working with **Python**
 * 🛠️ Interested in **Software Development**
+* 🎨 Passionate about **UI/UX Design**
+* 💻 Focused on **Frontend Development**
 * 📚 Always learning and exploring new technologies
 * 🚀 Building real-world projects to improve my development skills
 * 🎯 Looking for opportunities to start my career as a **Developer**
@@ -22,28 +22,6 @@ I enjoy transforming ideas and designs into functional web applications while co
 ---
 
 ## 🛠️ Tech Stack
-
-### 🎨 UI/UX Design
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-
-* Wireframing
-* Prototyping
-* User Interface Design
-* Responsive Design
-* User-Centered Design
-
-### 🌐 Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Web Design
-* Interactive Web Interfaces
 
 ### 🐍 Programming
 
@@ -66,6 +44,28 @@ I enjoy transforming ideas and designs into functional web applications while co
 * VS Code
 * Figma
 
+
+### 🎨 UI/UX Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+* Wireframing
+* Prototyping
+* User Interface Design
+* Responsive Design
+* User-Centered Design
+
+### 🌐 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Web Design
+* Interactive Web Interfaces
 ---
 
 ## 🚀 Featured Projects
